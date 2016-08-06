@@ -1,0 +1,30 @@
+_repo: Education-as-Service_11345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krishnamurti, J. (Jiddu)
+    aliases:
+    - Krishnamurti, Jiddu
+    - Alcyone
+    birthdate: 1895
+    deathdate: 1986
+    gutenberg_agent_id: '3946'
+    url: http://www.gutenberg.org/2009/agents/3946
+    wikipedia: http://en.wikipedia.org/wiki/Jiddu_Krishnamurti
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11345'
+  lccn: '12024418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Theosophy'
+- !lcsh 'Education'
+- GITenberg
+title: Education as Service
+url: http://www.gutenberg.org/ebooks/11345
